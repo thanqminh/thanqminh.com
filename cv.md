@@ -7,18 +7,14 @@ permalink: /cv
 
 1. PERSONAL INFORMATION
     * Name 	: 	(Mr.) Thân Quang Minh. 
-    * Address: 	32 Le Hong Phong, Quang Tri Town, Quang Tri Province, Vietnam.
+    * Address: 	Da Nang, Vietnam.
     * Mobile 	: 	(+84) 985 426 317.        
-    * Skype: [thanqminh](skype:thanqminh?call)
     * Email: 	
     <script type="text/javascript" src='http://download.skype.com/share/skypebuttons/js/skypeCheck.js'></script>
     <script type="text/javascript">
-        emailG= 'thanqminh@' + 'gmail.com';
+        emailG= 'minh.q.than@' + 'gmail.com';
         document.write('<a href="mailto:' + emailG + '">' + emailG + '</a>');
-    </script> / <script type="text/javascript">
-        emailM='thanqminh@' + 'live.com';
-        document.write('<a href="mailto:' + emailM + '">' + emailM + '</a>');
-    </script>
+    </script> 
 
 2. OVERVIEW
 - More than 5 years of work experience in Web development using PHP, RoR, Java Spring Framework. 
