@@ -9,12 +9,6 @@ permalink: /cv
     * Name 	: 	(Mr.) Thân Quang Minh. 
     * Address: 	Da Nang, Vietnam.
     * Mobile 	: 	(+84) 985 426 317.        
-    * Email: 	
-    <script type="text/javascript" src='http://download.skype.com/share/skypebuttons/js/skypeCheck.js'></script>
-    <script type="text/javascript">
-        emailG= 'minh.q.than@' + 'gmail.com';
-        document.write('<a href="mailto:' + emailG + '">' + emailG + '</a>');
-    </script> 
 
 2. OVERVIEW
 - More than 5 years of work experience in Web development using PHP, RoR, Java Spring Framework. 
